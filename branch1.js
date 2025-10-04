@@ -1,1 +1,1 @@
-console.log("1st bug fixed")
+console.log("bug fixed")
